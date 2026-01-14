@@ -18,6 +18,7 @@
 <sub>[`/logs`](./logs)</sub>
 
 <sub><samp>license: [`MIT`](./LICENSE)</samp></sub>
+<br>
 <sub><samp>contact: [`hello@sinmaven.com`](mailto:hello@sinmaven.com)</samp></sub>
 
 <br>
